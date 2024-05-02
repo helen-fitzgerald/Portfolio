@@ -1,20 +1,11 @@
-## Data Analyst
+# Data Analyst
 
-### Education
-CareerFoundry - Data Analytics
-Trinity College Dublin - M.Phil, Speech & Language Processing
-University College Dublin - B.A (Hons.), Linguistics & English Literature
-
-### Projects
-
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Tableau, PowerBI, MS Excel, Google Sheets
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Data Analytics | CareerFoundry 			       		
+- M.Phil. Speech & Language Processing	| Trinity College Dublin 			        		
+- B.A (Hons.) Linguistics & English Literature | University College Dublin
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
