@@ -1,4 +1,11 @@
-# Data Analyst
+# Data Analyst, Berlin, DE
+
+## About Me
+I'm a data analyst with a background in communications, business development, and marketing. As I have often collaborated with and depended upon data analysts in my previous roles, I offer the unique perspective of interpreting the needs of those who otherwise cannot articulate their analytical needs. 
+
+My work experience spans a diverse range of industries including technology, finance, education, creative arts, and healthcare - all of which have highlighted the adaptability and flexibility of my skill set.
+
+I am currently seeking new opportunities to work with a team of equally passionate individuals where I can apply and expand my expertise.
 
 #### Technical Skills: Python, SQL, Tableau, PowerBI, MS Excel, Google Sheets
 
@@ -18,15 +25,9 @@ This exploratory project aims to  analyse the current Airbnb market within the D
 
 Examining trends in influenza on behalf of a medical staffing agency who wishes to proactively plan the staffing needs across the country.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Contact
+- [Shoot me an email](mailto:helenbeirthfitzgerald@gmail.com)
+- [Let's connect on LinkedIn](https://www.linkedin.com/in/helen-fitzgerald/)
 
 
 - [Data Science Blog](https://medium.com/@shawhin)
