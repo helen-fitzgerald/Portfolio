@@ -25,4 +25,4 @@ This exploratory analysis uncovers valuable customer insights and suggests strat
 ## Key insights
 ![recs](/Portfolio/assets/instacart/instarecs.png)
 
-
+.
