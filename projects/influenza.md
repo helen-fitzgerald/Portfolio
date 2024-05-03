@@ -24,4 +24,4 @@ Examining trends in influenza on behalf of a medical staffing agency who wishes 
 ![recs](/Portfolio/assets/influenza/flurecs.png)
 
 ## Tableau dashboard
-[View the full dashboard here (https://public.tableau.com/views/PreparingforInfluenzaSeason_17079225734830/PreparingforInfluenzaSeason?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+[View the full dashboard here](https://public.tableau.com/views/PreparingforInfluenzaSeason_17079225734830/PreparingforInfluenzaSeason?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
