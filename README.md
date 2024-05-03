@@ -28,4 +28,5 @@ Examining trends in influenza on behalf of a medical staffing agency who wishes 
 ## Contact
 - [Shoot me an email](mailto:helenbeirthfitzgerald@gmail.com)
 - [Let's connect on LinkedIn](https://www.linkedin.com/in/helen-fitzgerald/)
+- [Check out my full portfolio](/Helen%20FitzGerald%20-%20Portfolio.pdf)
 
