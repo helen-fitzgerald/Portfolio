@@ -21,7 +21,8 @@ I am currently seeking new opportunities to work with a team of equally passiona
 ### Influenza Season
 [View the full project here](/projects/influenza.md)
 
-Examining trends in influenza on behalf of a medical staffing agency who wishes to proactively plan the staffing needs across the country.
+### InstaCart
+[View the full project here](/projects/instacart.md)
 
 ## Contact
 - [Shoot me an email](mailto:helenbeirthfitzgerald@gmail.com)
