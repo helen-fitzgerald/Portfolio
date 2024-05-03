@@ -16,9 +16,7 @@ I am currently seeking new opportunities to work with a team of equally passiona
 
 ## Projects
 ### Airbnb Dublin
-[Tableau Dashboard](https://public.tableau.com/app/profile/helen.fitzgerald/viz/AirbnbDublin_17131705106320/Airbnb?publish=yes)
-
-This exploratory project aims to  analyse the current Airbnb market within the Dublin area, examining any burgeoning trends and identifying potential relationships between various listing factors such as price and minimum stay requirements.
+[View the full project here](/projects/airbnb.md)
 
 ### Influenza Season
 [Tableau Dashboard](https://public.tableau.com/views/PreparingforInfluenzaSeason_17079225734830/PreparingforInfluenzaSeason?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
