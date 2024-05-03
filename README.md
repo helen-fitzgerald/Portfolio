@@ -30,8 +30,8 @@ I am currently seeking new opportunities to work with a team of equally passiona
 ### GameCo.
 [View the full project here](projects/gameco.md)
 
+### [Check out my full portfolio](https://helen-fitzgerald.github.io/Portfolio/Helen%20FitzGerald%20-%20Portfolio.pdf)
+
 ## Contact
 - [Shoot me an email](mailto:helenbeirthfitzgerald@gmail.com)
 - [Let's connect on LinkedIn](https://www.linkedin.com/in/helen-fitzgerald/)
-- [Check out my full portfolio](https://helen-fitzgerald.github.io/Portfolio/Helen%20FitzGerald%20-%20Portfolio.pdf)
-
