@@ -18,3 +18,6 @@ This exploratory project aims to  analyse the current Airbnb market within the D
 
 ## Key insights
 ![recs](/assets/airbnb/airbnbrecs.png)
+
+## Tableau dashboard
+[View the full dashboard here](https://public.tableau.com/app/profile/helen.fitzgerald/viz/AirbnbDublin_17131705106320/Airbnb?publish=yes)
