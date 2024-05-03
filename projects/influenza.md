@@ -16,11 +16,11 @@ Examining trends in influenza on behalf of a medical staffing agency who wishes 
 - Presenting results to an audience
 
 ## Findings
-![findings](/assets/airbnb/airbnbfindings.png)
+![findings](/Portfolio/assets/influenza/flufindings1.png)
+![findings](/Portfolio/assets/influenza/flufindings2.png)
 
 ## Key insights
-![recs](/assets/airbnb/airbnbrecs.png)
+![recs](/Portfolio/assets/influenza/flurecs.png)
 
 ## Tableau dashboard
-[View the full dashboard here](https://public.tableau.com/app/profile/helen.fitzgerald/viz/AirbnbDublin_17131705106320/Airbnb?publish=yes)
-
+[View the full dashboard here (https://public.tableau.com/views/PreparingforInfluenzaSeason_17079225734830/PreparingforInfluenzaSeason?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
