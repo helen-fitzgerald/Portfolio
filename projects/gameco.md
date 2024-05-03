@@ -1,9 +1,9 @@
-# GameCo
+# GameCo.
 ## Descriptive analysis
 
-GameCo wants to use a data-driven approach to inform the development of new games. 
+GameCo. wants to use a data-driven approach to inform the development of new games. 
 
-A descriptive analysis of a video their game data set will reveal vital insights and provide  a better understanding of how GameCo’s new games might fare in the market.
+A descriptive analysis of a video their game data set will reveal vital insights and provide  a better understanding of how GameCo.’s new games might fare in the market.
 
 ## Techniques used
 - Excel
