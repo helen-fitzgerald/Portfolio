@@ -9,10 +9,14 @@ I am currently seeking new opportunities to work with a team of equally passiona
 
 #### Technical Skills: Python, SQL, Tableau, PowerBI, MS Excel, Google Sheets
 
+---
+
 ## Education
 - Data Analytics | CareerFoundry 			       		
 - M.Phil. Speech & Language Processing	| Trinity College Dublin 			        		
 - B.A (Hons.) Linguistics & English Literature | University College Dublin
+
+---
 
 ## Projects
 ### Airbnb Dublin
@@ -30,9 +34,13 @@ I am currently seeking new opportunities to work with a team of equally passiona
 ### GameCo.
 [View the full project here](projects/gameco.md)
 
+---
+
 ## Resources
-- [Download my CV here](assets/Helen FitzGerald - CV - 2024.pdf)
+- [Download my CV here](assets/HelenFitzGeraldCV.pdf)
 - [Check out my full portfolio](https://helen-fitzgerald.github.io/Portfolio/Helen%20FitzGerald%20-%20Portfolio.pdf)
+
+---
 
 ## Contact
 - [Shoot me an email](mailto:helenbeirthfitzgerald@gmail.com)
