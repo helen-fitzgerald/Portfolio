@@ -14,10 +14,10 @@ This exploratory project aims to  analyse the current Airbnb market within the D
 - Geographic visualisations
 
 ## Findings
-![findings](/assets/airbnb/airbnbfindings.png)
+![findings](assets/airbnb/airbnbfindings.png)
 
 ## Key insights
-![recs](/assets/airbnb/airbnbrecs.png)
+![recs](assets/airbnb/airbnbrecs.png)
 
 ## Tableau dashboard
 [View the full dashboard here](https://public.tableau.com/app/profile/helen.fitzgerald/viz/AirbnbDublin_17131705106320/Airbnb?publish=yes)
