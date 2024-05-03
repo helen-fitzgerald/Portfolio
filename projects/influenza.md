@@ -16,8 +16,9 @@ Examining trends in influenza on behalf of a medical staffing agency who wishes 
 - Presenting results to an audience
 
 ## Findings
-![findings](/Portfolio/assets/influenza/flufindings1.png)
-![findings](/Portfolio/assets/influenza/flufindings2.png)
+![findings1](/Portfolio/assets/influenza/flufindings1.png)
+
+![findings2](/Portfolio/assets/influenza/flufindings2.png)
 
 ## Key insights
 ![recs](/Portfolio/assets/influenza/flurecs.png)
