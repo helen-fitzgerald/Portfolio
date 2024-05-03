@@ -25,3 +25,5 @@ This exploratory analysis uncovers valuable customer insights and suggests strat
 ## Key insights
 ![recs](/Portfolio/assets/instacart/instarecs.png)
 
+## Full case study
+[Find the full PDF case study here](/Portfolio/assets/instacart/Helen FitzGerald Case Study (1).pdf)
