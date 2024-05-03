@@ -27,6 +27,9 @@ I am currently seeking new opportunities to work with a team of equally passiona
 ### Rockbuster Stealth
 [View the full project here](projects/rockbuster.md)
 
+### GameCo.
+[View the full project here](projects/gameco.md)
+
 ## Contact
 - [Shoot me an email](mailto:helenbeirthfitzgerald@gmail.com)
 - [Let's connect on LinkedIn](https://www.linkedin.com/in/helen-fitzgerald/)
