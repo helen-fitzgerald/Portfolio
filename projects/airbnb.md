@@ -1,6 +1,5 @@
-![airbnb](/assets/airbnb/airbnbheader.jpg)
 # Airbnb 
-## Exploratory Analysis
+## Exploratory analysis
 
 This exploratory project aims to  analyse the current Airbnb market within the Dublin area, examining any burgeoning trends and identifying potential relationships between various listing factors such as price and minimum stay requirements.
 
@@ -16,3 +15,6 @@ This exploratory project aims to  analyse the current Airbnb market within the D
 
 ## Findings
 ![findings](/assets/airbnb/airbnbfindings.png)
+
+## Key insights
+![recs](/assets/airbnb/airbnbrecs.png)
